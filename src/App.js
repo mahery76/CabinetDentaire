@@ -1,10 +1,14 @@
 import './App.css';
+import {addPatient} from './services/addPatient';
 
 function App() {
   return (
     <div className="App">
-      Cabinet dentaire
-      Mahery 
+      <form onSubmit={addPatient}>
+
+        <button type="submit"> Ajouter patient</button>
+      </form>
+      
     </div>
   );
 }
