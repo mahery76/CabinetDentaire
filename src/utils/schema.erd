@@ -4,9 +4,9 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -503.7965,
-    "scrollLeft": -252.9762,
-    "zoomLevel": 0.76,
+    "scrollTop": -222,
+    "scrollLeft": -143.7283,
+    "zoomLevel": 1,
     "show": 431,
     "database": 4,
     "databaseName": "CabinetDentaireDb",
@@ -110,15 +110,15 @@
           "MAbH6niiNDKnlkH66GB1a"
         ],
         "ui": {
-          "x": 299,
-          "y": 348,
+          "x": 223.9999,
+          "y": 379.579,
           "zIndex": 69,
           "widthName": 60,
           "widthComment": 117,
           "color": ""
         },
         "meta": {
-          "updateAt": 1738509820041,
+          "updateAt": 1739622533077,
           "createAt": 1736613023805
         }
       },
@@ -141,15 +141,15 @@
           "ttn6pSTKNKx_oLi13C2b0"
         ],
         "ui": {
-          "x": 624,
-          "y": 39,
+          "x": 569.8947,
+          "y": 123.2631,
           "zIndex": 224,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1738509816585,
+          "updateAt": 1739622640829,
           "createAt": 1736613943903
         }
       }
@@ -676,8 +676,8 @@
           "columnIds": [
             "N1nW8a6IGT4tm4Maj_XZy"
           ],
-          "x": 405.25,
-          "y": 348,
+          "x": 330.2499,
+          "y": 379.579,
           "direction": 4
         },
         "meta": {
@@ -695,8 +695,8 @@
           "columnIds": [
             "1Oq5yuqu2krg6TgUTZleB"
           ],
-          "x": 624,
-          "y": 127,
+          "x": 569.8947,
+          "y": 211.2631,
           "direction": 1
         },
         "end": {
@@ -704,8 +704,8 @@
           "columnIds": [
             "1FHoagWzJT9fnHoKKX-XJ"
           ],
-          "x": 617.75,
-          "y": 348,
+          "x": 542.7499,
+          "y": 379.579,
           "direction": 4
         },
         "meta": {
